@@ -3,6 +3,7 @@ package raft_serverpb;
 
 import "eraftpb.proto";
 import "metapb.proto";
+import "memory_usage.proto";
 import "kvrpcpb.proto";
 import "disk_usage.proto";
 import "rustproto.proto";
